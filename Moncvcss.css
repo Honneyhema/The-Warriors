@@ -1,0 +1,76 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+    height: 170px;
+    padding-top: 10px;
+    color: rgb(9, 9, 9);
+    background-color: rgb(238, 241, 243);
+    border-radius: 5%;
+}
+.bobby{
+    
+    width: 140px;
+    height: 140px;
+    margin-left: 5%;
+    margin-top: 1.5%;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.nom{
+    margin-left: 18%;
+    margin-top: -8.5%;
+    font-style: italic;
+}
+.contact  {
+    margin-left: 70%;
+    margin-top: -11%;
+    font-weight:bold ;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.profession{
+    color: black;
+    font-style: italic;
+}
+.issa{
+    font-size: large;
+    letter-spacing: 5px;
+    color: rgb(19, 132, 132);
+}
+h3{
+    color: rgb(19, 132, 132);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-style: italic;
+}
+p{
+    font-style: italic;
+    font-weight: bold;
+}
+div{
+    font-style: italic;
+    font-weight: bold;
+}
+.for{
+    float: left;
+    width: 20%;
+    font-weight: bold;
+    margin-top: -1.5%;
+}
+hr{
+    float: left;
+    width: 20%;
+    font-weight: bold;
+    margin-top: -1.5%;
+    border:  rgb(57, 56, 56) solid;
+}
+
+
+
+
+
+
