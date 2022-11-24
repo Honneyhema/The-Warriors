@@ -1,0 +1,51 @@
+body{
+    font-family: 'sergeo UI','Segoe UI', Tahoma, Verdana, sans-serif;
+}
+main{
+    box-shadow: 30px 0px 40px rgb(196, 196, 196), -30px 0px 40px rgb(196, 196, 196);
+    margin: auto;
+    max-width: 900px;
+}
+.srkl{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    background-color: rgb(61, 61, 48);
+    width: 100%;
+}
+header{
+    height: 250px;
+    padding-top: 10px;
+    color: white;
+    background-color: #333;
+}
+.dorky {
+    margin-left: 7%;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    overflow: hidden;
+    margin-bottom:-200px;
+}
+
+.des
+{
+    margin-left:20rem;
+}
+.des p{
+    color:aqua;
+}
+.fbk{
+  margin-left: 7%;
+  border-radius: 50%;
+  width: 130px;  
+  height: 130px;
+  overflow: hidden;
+}
+.ins{
+    margin-left: 7%;
+  border-radius: 50%;
+  width: 130px;  
+  height: 130px;
+  overflow: hidden;
+}

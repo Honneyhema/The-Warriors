@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dorcas.cv</title>
+    <link rel ="stylesheet" type="" href="cv.css">
+</head>
+<body>
+   <main>
+      <header> 
+            <img src="Djpeg.jpeg"  alt="" class="dorky">
+            <style>
+                .dorky
+                {
+                    width: 170px;
+                    height : 170px;
+                }
+            </style>
+     <div class="des">
+         <h3> Ali Moussa Dorcas</h3>
+         <p class= "post">Etudiante en Intelligence Artificielle</p>
+         <p class="info"> Mail: dorcasali@icloud.com</p>
+         <p class="info"> Adress: Kalley Nord - Niamey</p>
+         <p class= "info"> Tel: +227 97799829</p>
+      </div>
+    </header>
+    <section class="section-left">
+        <h4>Atouts</h4>
+        <hr class="light">
+        <div class="atouts">
+            <div> Travail d'equipe</div> 
+            <div> Adaptable / Flaxible</div>
+        </div>
+    </section>
+
+    </section class= "section-right">
+    <h4>Formation</h4>
+    <hr class="light">
+      <div class="skls">
+      <div class="po">
+        <p><strong> Baccalaureat A4 </strong>au Complexe Scolaire Prive Evangelique Peniel (2020-2021)</html></p>
+        <div class="cool">
+        <div style="width: 80%" class="inner"> </div>
+        <hr class="light">
+      <div class="skls">
+      <div class="po">
+        <p> <strong>Brevet d Etat</strong>au Complexe Scolaire Prive Evangelique Peniel(2017-2018)</html></p>
+        <div class="cool">
+        <div style="width: 80%" class="inner"> </div>
+        </div>
+        <h4>Langues</h4>
+    <hr class="light">
+      <div class="skls">
+      <div class="po">
+        <p>Francais</html></p>
+        <div class="cool">
+        <div style="width: 80%" class="inner"> </div>
+      </div>
+      <div class="po">
+        <p>Anglais</html></p>
+        <div class="cool">
+        <div style="width: 80%" class="inner"> </div>
+        <div class="po">
+            <p>Zarma</html></p>
+            <div class="cool">
+            <div style="width: 80%" class="inner"> </div>
+      </div>
+      <h4> Reseaux Sociaux</h4>
+      <hr class="light">
+      <div class="interet">
+        <p><img src="fb.jpp.jpg" alt="Facebook" class="fbk">Dorcas Ali</p>
+        <style>
+            .fbk
+            {
+                width: 30px;
+                height: 30px;
+            }
+        </style>
+        <p><img src="ins.jpp.png" alt="Instagram" class="ins">iamdorkyy</p>
+        <style>
+            .ins {
+                width: 30px;
+                height: 30px;
+            }
+        </style>
+      </div>
+      <h4> Centres D'interets :</h4>
+      <hr class="light">
+      <div class="interet">
+      <div> <b> Piano </b></div>
+      <div> <b> Natation</b></div>
+      <div><b> Naviguer sur le net</b></div>
+      <div><b> Danse  </b></div>
+
+      </section>
+
+      <div class="srkl">
+
+      </div>
+      <hr class="light">
+   </main> 
+</body>
+</html>
